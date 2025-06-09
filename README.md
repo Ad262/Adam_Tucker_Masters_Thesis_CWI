@@ -40,7 +40,7 @@ CWI_Masters
         │   Corpus
         |   Extracted_feats_pkl
         |   RoBERTa_Feat_Flat.ipynb
-        |   Algo_Aplic_and_Eval.ipynb
+        |   Algo_Applic_and_Eval.ipynb
         |   Learner_Feat_extract.ipynb
         |   RoBERTa_Feat_extract.ipynb
 └───Final_system
